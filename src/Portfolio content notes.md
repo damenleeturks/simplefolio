@@ -20,9 +20,10 @@ Knowing that this would not be the end of the effort, we also devised a multi-st
 
 
 # Cross-Platform Design System
-Consistency in the details builds trust with your constomers, and any large buisiness with multiple applications tends to struggle with this. While the company had employed other design system managers before, the effort had not always been well received. 
+Hands-off design system management approach — I kept the pantry fully stocked for design team to pull from. My job was to make their job easier, thru better-built components, thru great documentation and usage guidelines, or thru tight partnership and consulting. So many high-value and high-return products and projects were immensely better because of this approach. 
 
-  - too authoritarian or too disconnected (ai docs without review)
+Consistency in the details builds trust with your constomers, and any large buisiness with multiple applications tends to struggle with this. While the company had employed other design system managers before, the effort had not always been well received. 
+  - too authoritarian or too disconnected (ai written documentation published without review)
   - No documentation (let the components speak for themselves does nothing for consistent usage)
   - No integration with dev
 
